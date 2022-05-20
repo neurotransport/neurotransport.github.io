@@ -14,12 +14,16 @@ author: Neurodiversity In Transport
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "aboutme"
-  Careers: "careers"
-  Employees:
-  About:
-    - Aims: "aims"
-    - Trustees: "trustees"
+  Join NiT: 
+    - Join Mailing List: "network/join-email"
+    - Calendar of Events : "network/calendar"
+  Related Organisations: "related"
+  News: "news/"
+  About: "about"
+    - Aims: "about/aims"
+    - Trustees: "about/trustees"
+    - Sponsors: "about/sponsors"
+
 
 # --- Logo --- #
 
