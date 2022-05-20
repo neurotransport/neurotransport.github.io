@@ -14,15 +14,20 @@ author: Neurodiversity In Transport
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Employors Toolkit: 
+    - Work Experience: ""
+    - Recuiting: ""
+    - On-boarding: ""
+    - Maximising Potential: ""
   Join NiT: 
-    - Join Mailing List: "network/join-email"
-    - Calendar of Events : "network/calendar"
+    - Join Mailing List: ""
+    - Calendar of Events : ""
   Related Organisations: "related"
-  News: "news/"
+  News: ""
   About: "about"
-    - Aims: "about/aims"
-    - Trustees: "about/trustees"
-    - Sponsors: "about/sponsors"
+    - Aims: ""
+    - Trustees: ""
+    - Sponsors: ""
 
 
 # --- Logo --- #
