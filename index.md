@@ -2,7 +2,8 @@
 layout: page
 title: NiT
 subtitle: Neurodiversity In Transport 
-cover-img: "/assets/img/logo_transparent.png"
+share-title: "Neurodiversity In Transport"
+share-description: "Enable the transport industry to unlock the full potential of neurodiverse people."
 ---
 
 Enable the transport industry to unlock the full potential of neurodiverse people.
