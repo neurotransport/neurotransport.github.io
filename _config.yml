@@ -14,16 +14,10 @@ author: Neurodiversity In Transport
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "aboutme"
   Careers: "careers"
-  Employors Toolkit: "employors/employors-toolkit"
-    - Work Experience : "employors/employors-toolkit"
-    - Recuiting: "employors/recuiting"
-    - On-boarding: "employors/on-boarding"
-    - Maximising Potential: "employors/maximising-potential"
-  Network: "network/network"
-    - Calendar of Events : "network/calendar"
-  News: "news/"
-  About: "about"
+  Employees:
+  About:
     - Aims: "aims"
     - Trustees: "trustees"
 
@@ -47,8 +41,8 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the botto
-  twitter: bmsleight
+#  rss: true  # remove this line if you don't want to show an RSS link at the botto
+  twitter: neurotransport
 #  medium: yourname
 #  reddit: yourname
   linkedin: brendansleight
