@@ -16,7 +16,7 @@ author: Neurodiversity In Transport
 navbar-links:
   Employors Toolkit:
     - Work Experience: "work-experience"
-    - Recuiting: "recuiting"
+    - Recruiting: "Recruiting"
     - On-boarding: "on-boarding"
     - Maximising Potential: "maximising-potential"
   Join NiT:
@@ -40,6 +40,8 @@ round-avatar: false
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
+
+paginate_path: "/news/page:num/").
 
 
 # --- Footer social media links --- #
