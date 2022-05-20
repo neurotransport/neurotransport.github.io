@@ -22,7 +22,7 @@ navbar-links:
   Join NiT:
     - Join Mailing List: "join"
     - Calendar of Events: "trustees"
-  News: ""
+  News: "/news/"
   About:
     - Aims: "aims"
     - Trustees: "trustees"
@@ -54,7 +54,7 @@ social-network-links:
   twitter: neurotransport
 #  medium: yourname
 #  reddit: yourname
-  linkedin: brendansleight
+  linkedin: holdingpageTBC
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +75,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Neurodiversity In Transport feed
 
 # --- General options --- #
 
